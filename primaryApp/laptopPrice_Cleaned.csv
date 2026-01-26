@@ -1,0 +1,796 @@
+brand,processor_brand,processor_name,processor_gnrtn,ram_gb,ram_type,os_bit
+acer,AMD,Ryzen 5,10th,4,DDR4,32-bit
+acer,AMD,Ryzen 5,10th,4,DDR4,32-bit
+acer,AMD,Ryzen 5,10th,4,DDR4,32-bit
+acer,Intel,Core i3,11th,8,DDR4,64-bit
+acer,Intel,Celeron Dual,Not Available,4,DDR4,32-bit
+acer,Intel,Core i3,11th,4,DDR4,32-bit
+acer,Intel,Core i3,11th,8,DDR4,64-bit
+acer,Intel,Core i5,Not Available,8,DDR5,32-bit
+acer,Intel,Core i5,Not Available,8,LPDDR4,32-bit
+acer,Intel,Core i5,10th,8,LPDDR4,32-bit
+acer,Intel,Core i5,7th,8,DDR3,64-bit
+acer,Intel,Core i5,8th,8,DDR3,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,LPDDR4X,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR3,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,8th,8,DDR4,64-bit
+acer,Intel,Core i5,10th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,8,DDR4,64-bit
+acer,Intel,Core i5,11th,16,DDR4,64-bit
+acer,Intel,Core i7,11th,16,DDR4,64-bit
+acer,Intel,Core i7,10th,16,DDR4,64-bit
+acer,Intel,Core i7,10th,16,DDR4,64-bit
+acer,Intel,Core i7,11th,16,DDR4,64-bit
+acer,Intel,Core i7,11th,16,DDR4,32-bit
+acer,Intel,Core i9,11th,32,DDR4,64-bit
+acer,Intel,Core i9,11th,16,DDR4,64-bit
+acer,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+acer,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 5,Not Available,8,LPDDR4X,64-bit
+acer,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+acer,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+acer,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+acer,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,32-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,32-bit
+ASUS,Intel,Core i5,10th,8,DDR4,32-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,32-bit
+ASUS,Intel,Core i3,10th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,32-bit
+ASUS,Intel,Core i3,10th,4,DDR4,32-bit
+ASUS,Intel,Core i3,11th,4,DDR4,32-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i3,10th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,LPDDR4X,32-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,32-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,32-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,32-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i3,10th,8,DDR4,64-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i3,11th,8,DDR4,64-bit
+ASUS,Intel,Core i3,10th,4,DDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,64-bit
+ASUS,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+ASUS,Intel,Core i5,10th,8,LPDDR4,32-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,32-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,9th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,32-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,32-bit
+ASUS,Intel,Core i5,10th,8,LPDDR3,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,8th,8,LPDDR3,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,8th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,11th,8,LPDDR4X,64-bit
+ASUS,Intel,Core i5,8th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,LPDDR3,64-bit
+ASUS,Intel,Core i5,10th,8,LPDDR3,64-bit
+ASUS,Intel,Core i5,10th,8,LPDDR3,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,8th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,32-bit
+ASUS,Intel,Core i5,10th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,9th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,16,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,10th,8,DDR4,32-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i5,11th,8,DDR4,64-bit
+ASUS,Intel,Core i7,10th,16,DDR4,64-bit
+ASUS,Intel,Core i7,10th,8,DDR4,64-bit
+ASUS,Intel,Core i7,11th,8,DDR4,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,64-bit
+ASUS,Intel,Core i7,8th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,8th,16,DDR3,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,8th,8,LPDDR3,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,32-bit
+ASUS,Intel,Core i7,10th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,10th,16,DDR4,64-bit
+ASUS,Intel,Core i7,10th,16,DDR4,64-bit
+ASUS,Intel,Core i7,11th,16,LPDDR4X,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,32-bit
+ASUS,Intel,Core i7,11th,16,DDR4,32-bit
+ASUS,Intel,Core i7,11th,16,DDR4,64-bit
+ASUS,Intel,Core i7,10th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,10th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,10th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,10th,16,LPDDR3,64-bit
+ASUS,Intel,Core i7,10th,16,DDR4,64-bit
+ASUS,Intel,Core i7,10th,16,DDR4,64-bit
+ASUS,Intel,Core i7,11th,16,DDR4,32-bit
+ASUS,Intel,Core i7,8th,16,DDR4,64-bit
+ASUS,Intel,Core i9,12th,16,DDR5,64-bit
+ASUS,Intel,Core i9,10th,16,DDR4,64-bit
+ASUS,Intel,Core i9,11th,16,DDR4,64-bit
+ASUS,Intel,Core i9,11th,16,DDR4,32-bit
+ASUS,Intel,Core i7,10th,16,LPDDR4X,32-bit
+ASUS,Intel,Pentium Quad,Not Available,4,LPDDR4X,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,32-bit
+ASUS,Intel,Pentium Quad,Not Available,8,LPDDR4X,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,LPDDR4,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+ASUS,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,32-bit
+ASUS,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,8,DDR4,32-bit
+ASUS,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,16,DDR4,32-bit
+ASUS,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,8,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR5,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,32-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR5,32-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,32-bit
+ASUS,AMD,Ryzen 7,Not Available,8,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 7,Not Available,16,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR5,32-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,32-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR5,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 7,Not Available,16,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,16,DDR4,32-bit
+ASUS,AMD,Ryzen 9,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,16,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,16,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,32-bit
+ASUS,AMD,Ryzen 9,Not Available,4,LPDDR4X,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+ASUS,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+Avita,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+Avita,Intel,Core i5,7th,8,DDR4,64-bit
+Avita,Intel,Core i5,7th,8,DDR4,64-bit
+Avita,Intel,Core i5,7th,8,DDR4,64-bit
+Avita,Intel,Core i5,8th,8,DDR4,64-bit
+Avita,Intel,Core i5,8th,8,DDR4,64-bit
+Avita,Intel,Core i5,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,8th,8,DDR4,64-bit
+Avita,Intel,Core i7,10th,16,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,32-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,32-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,32-bit
+DELL,Intel,Core i3,11th,4,DDR4,32-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,32-bit
+DELL,Intel,Core i3,11th,8,DDR4,32-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,8,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,11th,4,DDR4,64-bit
+DELL,Intel,Core i3,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,LPDDR4,32-bit
+DELL,Intel,Core i5,10th,8,LPDDR4,32-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,10th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,LPDDR4X,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,LPDDR4X,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,32-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,16,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,LPDDR4X,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,32-bit
+DELL,Intel,Core i5,11th,8,DDR4,32-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,4,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,10th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,11th,8,DDR4,64-bit
+DELL,Intel,Core i5,8th,8,DDR4,64-bit
+DELL,Intel,Core i7,8th,16,DDR4,64-bit
+DELL,Intel,Core i7,11th,16,DDR4,64-bit
+DELL,Intel,Core i7,8th,16,DDR3,64-bit
+DELL,Intel,Core i7,11th,16,LPDDR4X,64-bit
+DELL,Intel,Core i7,10th,16,DDR4,64-bit
+DELL,Intel,Core i7,11th,16,DDR4,64-bit
+DELL,Intel,Core i7,11th,16,DDR4,64-bit
+DELL,Intel,Core i7,11th,16,DDR4,64-bit
+DELL,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+DELL,Intel,Pentium Quad,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,32-bit
+DELL,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+DELL,AMD,Ryzen 5,Not Available,4,DDR4,32-bit
+DELL,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+DELL,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+DELL,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Celeron Dual,Not Available,8,DDR4,64-bit
+HP,Intel,Core i3,7th,4,DDR4,64-bit
+HP,Intel,Core i5,7th,4,DDR4,32-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,8th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,10th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,10th,4,DDR4,32-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,32-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,8,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,11th,4,DDR4,64-bit
+HP,Intel,Core i3,10th,4,DDR4,64-bit
+HP,Intel,Core i3,10th,4,DDR4,64-bit
+HP,Intel,Core i3,7th,8,DDR4,64-bit
+HP,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+HP,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+HP,Intel,Core i5,10th,8,LPDDR4,32-bit
+HP,Intel,Core i5,10th,8,LPDDR4,32-bit
+HP,Intel,Core i5,8th,8,DDR4,64-bit
+HP,Intel,Core i5,8th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,16,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,16,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,LPDDR4X,64-bit
+HP,Intel,Core i5,11th,16,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,32-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,10th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,LPDDR4X,64-bit
+HP,Intel,Core i5,10th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,10th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,32-bit
+HP,Intel,Core i5,10th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i5,11th,8,LPDDR4X,64-bit
+HP,Intel,Core i5,11th,8,DDR4,32-bit
+HP,Intel,Core i5,11th,16,DDR4,64-bit
+HP,Intel,Core i5,11th,16,DDR4,64-bit
+HP,Intel,Core i5,8th,8,DDR4,64-bit
+HP,Intel,Core i5,8th,8,DDR4,64-bit
+HP,Intel,Core i5,7th,4,DDR4,64-bit
+HP,Intel,Core i5,10th,8,DDR4,32-bit
+HP,Intel,Core i5,11th,8,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,10th,16,LPDDR3,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,10th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,32-bit
+HP,Intel,Core i7,10th,16,DDR4,64-bit
+HP,Intel,Core i7,10th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,LPDDR4X,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,LPDDR4X,64-bit
+HP,Intel,Core i7,11th,16,LPDDR4X,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,11th,16,DDR4,64-bit
+HP,Intel,Core i7,8th,16,DDR4,64-bit
+HP,Intel,Pentium Quad,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 3,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,32-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,32-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,32-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,4,DDR4,32-bit
+HP,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+HP,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+HP,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,4,DDR4,32-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,32-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,32-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,32-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,32-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,32-bit
+Lenovo,Intel,Core i3,11th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,11th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,32-bit
+Lenovo,Intel,Core i3,10th,4,DDR4,64-bit
+Lenovo,Intel,Core i3,10th,8,DDR4,32-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,DDR4,32-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,LPDDR4X,64-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+Lenovo,Intel,Celeron Dual,Not Available,4,LPDDR4,32-bit
+Lenovo,Intel,Core i5,10th,8,LPDDR4,32-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,LPDDR4X,64-bit
+Lenovo,Intel,Core i5,9th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,8th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,8th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,7th,8,DDR4,32-bit
+Lenovo,Intel,Core i5,4th,8,DDR3,64-bit
+Lenovo,Intel,Core i5,8th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,9th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i5,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i7,10th,8,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,8,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,32-bit
+Lenovo,Intel,Core i7,10th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,10th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,8th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,8th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,10th,16,DDR4,32-bit
+Lenovo,Intel,Core i7,10th,16,LPDDR3,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,32-bit
+Lenovo,Intel,Core i7,11th,16,LPDDR4X,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,11th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,9th,16,DDR4,64-bit
+Lenovo,Intel,Core i7,10th,16,LPDDR4X,64-bit
+Lenovo,Intel,Core i7,11th,16,LPDDR4,64-bit
+Lenovo,Intel,Core i7,10th,16,DDR4,64-bit
+Lenovo,Intel,Core i9,10th,16,DDR4,32-bit
+Lenovo,AMD,Ryzen 3,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,4,LPDDR4X,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,4,DDR4,32-bit
+Lenovo,AMD,Ryzen 5,Not Available,4,LPDDR4X,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+Lenovo,Intel,Ryzen 7,Not Available,4,DDR4,32-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+Lenovo,AMD,Ryzen 7,Not Available,4,DDR4,32-bit
+Lenovo,AMD,Ryzen 5,10th,8,DDR4,64-bit
+MSI,Intel,Core i3,10th,4,DDR4,64-bit
+MSI,Intel,Core i3,11th,8,DDR4,64-bit
+MSI,Intel,Core i3,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,16,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,8,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,8,LPDDR4X,64-bit
+MSI,Intel,Core i5,11th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,8,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,11th,8,DDR4,64-bit
+MSI,Intel,Core i5,8th,8,DDR5,32-bit
+MSI,Intel,Core i5,11th,8,LPDDR4X,64-bit
+MSI,Intel,Core i5,10th,8,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i7,10th,16,DDR4,64-bit
+MSI,Intel,Core i7,10th,8,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,10th,16,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,LPDDR4X,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,10th,16,DDR4,64-bit
+MSI,Intel,Core i7,9th,8,DDR4,64-bit
+MSI,Intel,Core i7,10th,16,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,12th,16,DDR5,64-bit
+MSI,Intel,Core i7,11th,16,DDR4,64-bit
+MSI,Intel,Core i7,12th,16,DDR4,64-bit
+MSI,Intel,Core i7,10th,8,DDR4,64-bit
+MSI,Intel,Core i7,10th,16,DDR4,64-bit
+MSI,Intel,Core i9,11th,16,DDR4,64-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,Intel,Core i5,10th,8,LPDDR4,32-bit
+MSI,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+MSI,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+MSI,AMD,Ryzen 5,Not Available,8,DDR4,64-bit
+MSI,AMD,Ryzen 5,Not Available,4,DDR4,64-bit
+MSI,AMD,Ryzen 7,Not Available,4,DDR4,64-bit
+MSI,AMD,Ryzen 7,Not Available,16,DDR4,64-bit
+MSI,AMD,Ryzen 9,Not Available,4,DDR4,64-bit
