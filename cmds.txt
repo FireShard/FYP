@@ -1,0 +1,4 @@
+Virtualenv location: C:\Users\FireShard\.virtualenvs\Project_Website-39hWTpwQ
+
+cmds:
+C:\Users\FireShard\Documents\FYP\Dev\Project Website> pipenv shell
